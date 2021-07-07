@@ -1,5 +1,9 @@
 require_relative '../dice_roll'
 
+def roll(Integer)
+
+end
+
 describe "#roll" do
 
   it "should return an Integer" do
